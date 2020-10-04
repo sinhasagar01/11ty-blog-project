@@ -9,6 +9,7 @@ collections:
   - name: 'posts'
     label: 'Posts'
     folder: 'posts'
+    create: true
     slug: '{{year}}-{{month}}-{{day}}_{{slug}}'
     fields:
       - {
