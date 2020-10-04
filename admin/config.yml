@@ -9,7 +9,7 @@ collections:
   - name: 'posts'
     label: 'Posts'
     folder: 'posts'
-    slug: '{{year}}-{{months}}-{{day}}-{{slug}}'
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     fields:
       - {
           label: 'Layout',
