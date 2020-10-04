@@ -5,5 +5,4 @@ description: The first post on the Elementy and Netlify CMS blog
 date: 2020-10-08
 featuredImage: /images/uploads/image1.jpg
 ---
-
-Hello, here is the body of the first blog post.
+Hello, here is the body of the first blog post. This is the new post
